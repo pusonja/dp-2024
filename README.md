@@ -8,7 +8,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 NAPREDAK:
-32:14 youtube
+38:11 youtube
 
 Time Stamps 👇
 00:00:00 — Intro - 1
