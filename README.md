@@ -14,8 +14,8 @@ Time Stamps 👇
 00:00:00 — Intro - 1
 00:03:48 — Setup - 1
 00:10:10 — Tailwind Config - 1
-00:20:12 — Hero Section - 2
-01:00:41 — About Section
+00:20:12 — Hero Section - 2, 3
+01:00:41 — About Section - 3
 01:10:05 — Animated Title
 01:19:03 — Navbar
 01:41:11 — Features
